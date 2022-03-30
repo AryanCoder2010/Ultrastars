@@ -1,0 +1,20 @@
+body{
+       background-image: url(bg.gif) ;
+       background-repeat: no-repeat;
+       background-size: cover;
+}
+#gam{
+       padding-left: 0cm;
+       padding-right: 2cm;
+}       
+#tit {
+       font-family: 'Lobster', cursive;
+       padding-left: 280px;
+       font-size: 100px;
+       color: WHITE;
+}
+#det{
+       background-color: white;
+       width: 495px;
+       height: 412px;
+}
