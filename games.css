@@ -3,13 +3,10 @@ body{
        background-repeat: no-repeat;
        background-size: cover;
 }
-#gam{
-       padding-left: 0cm;
-       padding-right: 2cm;
-}       
 #tit {
        font-family: 'Lobster', cursive;
-       padding-left: 280px;
+       padding-left: 5px;
+       padding-top: 5px;
        font-size: 100px;
        color: WHITE;
 }
