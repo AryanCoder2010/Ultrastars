@@ -15,3 +15,6 @@ body{
        width: 495px;
        height: 412px;
 }
+#disqus_thread{
+       height: 50px; 
+}
