@@ -15,6 +15,6 @@ body{
        width: 495px;
        height: 412px;
 }
-#HCB_comment_box{
-       color: white;
+#comment_box{
+      background-color: white;
 }
