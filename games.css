@@ -7,6 +7,10 @@ body{
        font-family: 'Lobster', cursive;
        padding-left: 5px;
        padding-top: 5px;
+       height: 750px;
+       width: 1300px;
+       background-image: url(logo.gif);
+       background-repeat: no-repeat;
        font-size: 100px;
        color: WHITE;
 }
