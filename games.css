@@ -37,3 +37,16 @@ body{
        border-radius: 8px 0 0 8px;
        z-index: 9999991;
 }
+@media screen and (max-width:415px){ 
+       #tit{
+              background-image: url(logo_one+nine.gif);      
+       }
+       body{
+              background-image: url(1+9_bg.gif);
+              background-repeat: repeat-y;
+       }
+       iframe{
+              width: 380px;
+              height: 397px;
+       }
+}
